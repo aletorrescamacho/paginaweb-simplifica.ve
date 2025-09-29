@@ -51,7 +51,7 @@ export function Contact() {
             <CardContent>
               <Link href="mailto:simplifica.ve@gmail.com">
                 <Button variant="outline" className="w-full h-12 text-base border-2 hover:bg-accent/50 bg-transparent">
-                  contacto@simplifica.com.ve
+                  simplifica.ve@gmail.com
                 </Button>
               </Link>
             </CardContent>
