@@ -34,7 +34,7 @@ export function Contact() {
             <CardContent>
               <Link href="https://wa.me/584127507522" target="_blank" rel="noopener noreferrer">
                 <Button className="w-full h-12 text-base bg-primary text-primary-foreground hover:bg-primary/90 shadow-lg shadow-primary/25">
-                  +58 412 0000000
+                  +58 412 7507522
                 </Button>
               </Link>
             </CardContent>
