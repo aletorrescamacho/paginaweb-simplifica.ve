@@ -9,7 +9,7 @@ const faqs = [
   {
     question: "¿Cuánto tiempo tarda la entrega?",
     answer:
-      "Tu página web estará lista y publicada en 20 días después de recibir toda la información necesaria (textos, imágenes, logo, etc.). Trabajamos con calidad y atención al detalle.",
+      "Tu página web estará lista y publicada en 15 días después de recibir toda la información necesaria (textos, imágenes, logo, etc.). Trabajamos con calidad y atención al detalle.",
   },
   {
     question: "¿Qué necesito para comenzar?",

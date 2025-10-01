@@ -18,7 +18,7 @@ export function Contact() {
             <span className="bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent">comenzar</span>?
           </h2>
           <p className="text-pretty text-xl text-muted-foreground leading-relaxed">
-            Contáctanos hoy y ten tu página web profesional en 20 días
+            Contáctanos hoy y ten tu página web profesional en 15 días
           </p>
         </div>
 

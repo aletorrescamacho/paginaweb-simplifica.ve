@@ -14,7 +14,7 @@ const features = [
   },
   {
     icon: Zap,
-    title: "Entrega en 20 días",
+    title: "Entrega en 15 días",
     description: "Recibe tu página web lista y optimizada",
   },
   {

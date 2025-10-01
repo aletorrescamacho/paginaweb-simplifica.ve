@@ -19,7 +19,7 @@ export function Hero() {
         <div className="mx-auto max-w-5xl text-center">
           <div className="mb-8 inline-flex items-center gap-2 rounded-full border border-primary/30 bg-primary/10 px-5 py-2 text-sm font-medium text-primary backdrop-blur-sm">
             <Sparkles className="h-4 w-4" />
-            <span>Tu presencia web en 20 días</span>
+            <span>Tu presencia web en 15 días</span>
           </div>
 
           <h1 className="mb-8 text-balance text-6xl font-bold leading-[1.1] tracking-tight md:text-7xl lg:text-8xl">
